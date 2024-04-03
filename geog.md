@@ -6,4 +6,4 @@ LINKS
     https://downlandscommunityschool.sharepoint.com/sites/Section_2023-10Y-GEO1
 
 RESOURCES
-    </main/resources/geog>
+   <master/resources/geography>
